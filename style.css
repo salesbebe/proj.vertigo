@@ -9,5 +9,9 @@
 header {
     background-image: url(./imagens/img\ \(1\).png);
     background-size: cover;
-    height: ;
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
